@@ -47,10 +47,10 @@ public class MainActivity extends AppCompatActivity {
                     typetxt="Llamada";
                     break;
                 case CallLog.Calls.INCOMING_TYPE:
-                    typetxt="Recibida";
+                    typetxt="Rec";
                     break;
                 case CallLog.Calls.MISSED_TYPE:
-                    typetxt="Perdida";
+                    typetxt="Per";
                     break;
             }
 
